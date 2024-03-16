@@ -1,0 +1,2 @@
+configobj == 5.0.8
+fpdf == 1.7.2
