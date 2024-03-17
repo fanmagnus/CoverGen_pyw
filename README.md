@@ -1,4 +1,4 @@
-# Fan's Cover Letter Generator and Job Organizer (Python)
+# Cover Letter Generator and Job Organizer (Python)
 
 ## Description
 
