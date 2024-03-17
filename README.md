@@ -6,11 +6,16 @@ A desktop app that serves as a spreadsheet that generates pdf files based on inf
 
 ## Installation
 
+### Option 1
 Run the following code from cmd prompt in your Python directory (where you have pip installed). You may also need to specify the path to the requirements.txt
 
 pip install -r requirements.txt (pip install -r some\path\CoverGen_pyw\requirements.txt)
 
+### Option 2
 Alternatively, manually pip install configobj and fpdf.
+
+### Option 3
+The [.exe edition of this app](https:/github.com/fanmagnus/CoverGen_exe) does not require installation. However, it is processed using pyinstaller and may trigger Antivirus Warnnings.
 
 ## How to Use?
 
