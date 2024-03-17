@@ -15,7 +15,7 @@ pip install -r requirements.txt (pip install -r some\path\CoverGen_pyw\requireme
 Alternatively, manually pip install configobj and fpdf.
 
 ### Option 3
-The [.exe edition of this app](https:/github.com/fanmagnus/CoverGen_exe) does not require installation. However, it is processed using pyinstaller and may trigger Antivirus Warnnings.
+The [.exe edition of this app](/fanmagnus/CoverGen_exe) does not require installation. However, it is processed using pyinstaller and may trigger Antivirus Warnnings.
 
 ## How to Use?
 
